@@ -8,8 +8,8 @@
 
 fn main() {
 
-    let x: i32 = 10;
-    let y: i32 = 20;
+    let x: i32 = 10; //declare variable x -> 32 bit signed integer
+    let y: i32 = 20; //decalre variable y -> 32 bit signed integer
 
     println!("Syntax Design");
 
@@ -20,7 +20,7 @@ fn main() {
 
     else {
 
-        println!("")
+        println!("x is y!!");
 
-    }
+    };
 }
